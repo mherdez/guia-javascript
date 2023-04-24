@@ -28,12 +28,12 @@ module.exports = {
     sidebar: [
       '/',
       '/pages/01-introduccion',
-      // '/pages/02-clases',
-      // '/pages/03-herencia',
-      // '/pages/04-polimorfismo',
-      // '/pages/05-encapsulamiento',
-      // '/pages/06-excepcion',
-      // '/pages/07-batalla',
+      '/pages/02-bases',
+      '/pages/03-control-de-flujo',
+      '/pages/04-funciones',
+      '/pages/05-arreglos',
+      '/pages/06-objetos',
+      '/pages/07-api-rest',
     ]
   },
   plugins: [

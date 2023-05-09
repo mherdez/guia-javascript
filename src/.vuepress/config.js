@@ -34,6 +34,7 @@ module.exports = {
       '/pages/05-js-dom',
       '/pages/06-js-vite',
       '/pages/07-jest',
+      '/pages/08-ejercicios',
     ]
   },
   plugins: [

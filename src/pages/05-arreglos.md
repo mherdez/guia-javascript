@@ -1,5 +1,0 @@
-# Arreglos
-
-## ForEach
-## Map
-## Filter

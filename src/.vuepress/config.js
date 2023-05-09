@@ -28,12 +28,12 @@ module.exports = {
     sidebar: [
       '/',
       '/pages/01-introduccion',
-      '/pages/02-bases',
-      '/pages/03-control-de-flujo',
-      '/pages/04-funciones',
-      '/pages/05-arreglos',
-      '/pages/06-objetos',
-      '/pages/07-api-rest',
+      '/pages/02-js-basico',
+      '/pages/03-js-intermedio',
+      '/pages/04-js-moderno',
+      '/pages/05-js-dom',
+      '/pages/06-js-vite',
+      '/pages/07-jest',
     ]
   },
   plugins: [

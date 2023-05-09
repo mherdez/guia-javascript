@@ -1,5 +1,0 @@
-# Funciones
-
-## function
-
-## arrow function

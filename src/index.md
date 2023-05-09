@@ -18,6 +18,8 @@ Y eso no es todo, también te verás cómo utilizar Jest, una herramienta de tes
 En resumen, si quieres estar al día en las últimas tendencias y convertirte en un experto en JavaScript, ¡este material es para ti! Con esta guía, podrás explorar un mundo de posibilidades y desarrollar soluciones innovadoras y eficientes en el mundo de la tecnología. ¡No te lo pierdas!
 
 <!--
+¡Hola a todos!
+
 Me encanta ver que tantos estudiantes universitarios están interesados en aprender JavaScript. Como uno de los lenguajes de programación más populares del mundo, el conocimiento de JavaScript puede abrir muchas oportunidades emocionantes en el mundo de la tecnología.
 
 Pero sé que puede ser intimidante comenzar a aprender un nuevo lenguaje de programación, especialmente si eres nuevo en la programación en general. Sin embargo, estoy aquí para decirles que con dedicación y práctica, cualquiera puede aprender JavaScript básico.
